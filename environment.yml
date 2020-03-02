@@ -1,0 +1,22 @@
+name: kali
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - h5py
+  - hdf5
+  - jupyter
+  - keras
+  - matplotlib
+  - numba
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - tensorflow
+  - theano
+
