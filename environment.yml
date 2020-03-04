@@ -4,19 +4,13 @@ channels:
   - defaults
 dependencies:
   - python=3.6
-  - h5py
-  - hdf5
-  - jupyter
-  - keras
-  - matplotlib
-  - numba
+  - pip
   - numpy
   - pandas
-  - pip
-  - scikit-learn
   - scipy
-  - seaborn
-  - statsmodels
+  - numba
   - tensorflow
-  - theano
-
+  - keras
+  - h5py
+  - jupyter
+  - matplotlib
