@@ -40,11 +40,7 @@ from keras.models import load_model
 # placeholder for input data
 # comment out with # mark if you use the observational data
 # which was provided to you by the authors 
-data = pd.DataFrame({"Q": np.random.random(324360), 
-                     "P": np.random.random(324360), 
-                     "PE": np.random.random(324360)
-                     }, 
-                     index=pd.date_range("1968-01-01 00:00", periods=324360, freq="1H"))
+data = pd.read_pickle("../data/data_dummy.pkl")
 
 
 # split data for calibration and validation periods
