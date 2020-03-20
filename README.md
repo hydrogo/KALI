@@ -6,7 +6,7 @@ In the present repository, you can find the materials for the paper
 
 > **Ayzel G., Heistermann M. The effect of calibration data length on the performance of conceptual versus data-driven hydrological models.** 
 
-which was submitted to [*the Journal of Hydroinformatics*](https://iwaponline.com/jh/).
+which was submitted to [*Computers & Geosciences*](https://www.sciencedirect.com/journal/computers-and-geosciences).
 
 
 ### Idea and workflow
